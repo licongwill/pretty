@@ -7,11 +7,13 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="pretty-core" />
+        <module name="prettyaop" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="pretty-core" target="8" />
       <module name="pretty-parent" target="8" />
+      <module name="prettyaop" target="8" />
     </bytecodeTargetLevel>
   </component>
 </project>

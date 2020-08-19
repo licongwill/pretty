@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/pretty-core/pretty-core.iml" filepath="$PROJECT_DIR$/pretty-core/pretty-core.iml" />
       <module fileurl="file://$PROJECT_DIR$/pretty-parent.iml" filepath="$PROJECT_DIR$/pretty-parent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pretty-aop/prettyaop.iml" filepath="$PROJECT_DIR$/pretty-aop/prettyaop.iml" />
     </modules>
   </component>
 </project>

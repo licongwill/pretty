@@ -6,6 +6,7 @@
     <packaging>pom</packaging>
     <modules>
         <module>pretty-core</module>
+        <module>pretty-aop</module>
     </modules>
 
     <groupId>cn.pretty</groupId>
